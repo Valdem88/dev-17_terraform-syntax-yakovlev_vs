@@ -208,6 +208,6 @@ exactly these actions if you run "terraform apply" now.
 - Packer
 2. Ссылку на репозиторий с исходной конфигурацией терраформа. 
 
-
+https://github.com/Valdem88/dev-17_terraform-syntax-yakovlev_vs/tree/main/demo_ter
 
 ---
